@@ -16,11 +16,10 @@ pyrogram==2.0.106
 python-dotenv
 pyyaml
 requests
-speedtest-cli
 spotipy
 tgcrypto
 unidecode
-yt-dlp
+git+https://github.com/Tarx77/Hexor.git
 youtube-search
 youtube-search-python
 telethon
